@@ -1,0 +1,15 @@
+(7) 1.html
+(7) 1_files/
+(7) Instagram.html
+(7) Instagram_files/
+/2.html
+/2_files/
+/3.html
+/3_files/
+/hero.jpg
+/sobre.jpg
+/[0-9]*_[0-9]*_[0-9]*_n.jpg
+Captura de tela*.png
+
+.vercel
+.env*
